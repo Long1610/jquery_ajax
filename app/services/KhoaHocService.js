@@ -1,0 +1,3 @@
+function KhoaHocSerVice(){
+    this.mangKhoaHoc = [];
+}
